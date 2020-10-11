@@ -1,4 +1,4 @@
-a=int(input("enter a num"))
-b=int(input("enter a num"))
+a=80
+b=20
 sub=a-b
 print(sub)
